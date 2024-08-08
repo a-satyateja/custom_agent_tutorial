@@ -1,4 +1,7 @@
-termcolor==2.4.0
-PyYAML==6.0.1
-requests==2.31.0
-beautifulsoup4==4.12.3
+google-auth
+google-api-python-client
+google-auth-oauthlib
+colorama
+pyyaml
+requests
+pytz
